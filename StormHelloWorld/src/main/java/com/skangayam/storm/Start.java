@@ -1,4 +1,4 @@
-package com.idea.plumber.storm;
+package com.skangayam.storm;
 
 import backtype.storm.Config;
 import backtype.storm.LocalCluster;
